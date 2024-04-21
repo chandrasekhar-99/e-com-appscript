@@ -1,0 +1,274 @@
+.website-footer-container{
+    height: 750px;
+    top: 3632px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: #000000;
+    padding: 30px 30px 0px 30px ;
+}
+
+.footer-quote-1{
+    font-family:sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: left;
+    color: #FFFFFF;
+    padding-bottom: 8px;
+}
+
+
+
+.footer-quote-2{
+    font-family:sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.2px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.footer-icon{
+    display: flex;
+    flex-direction: row;
+    width: Hug (76px)px;
+    height: Hug (32px)px;
+    top: 421px;
+    left: 888px;
+    gap: 12px;
+    opacity: 0px;
+    color: #FFFFFF;
+    font-size: 36px;
+    padding-bottom: 18px;
+}
+
+
+.footer-email-input-container{
+    width: 584px;
+    height: 48px;
+    top: 197px;
+    left: 128px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.email-input-field{
+    width: Fixed (384px)px;
+    height: Fixed (47px)px;
+    padding: 14px 24px 14px 24px;
+    gap: 8px;
+    opacity: 0px;
+    font-family:sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21.6px;
+    text-align: left;
+    color:#BFC8CD;
+    outline: none;
+}
+
+
+.footer-subscribe-button{
+    width: Fixed (194px)px;
+    height: Fixed (48px)px;
+    left: 400px;
+    gap: 0px;
+    border-radius: 5px;
+    border: 1.14px 0px 0px 0px;
+    opacity: 0.3px;
+    background: #000000;
+    border: 1.14px solid #4c4c4c;
+    font-family:sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21.6px;
+    text-align: left;
+    color:#4c4c4c;
+    padding:15px;
+    margin-left: 8px;
+    cursor: pointer;
+}
+.footer-bottom-line{
+    font-family:sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16.8px;
+    text-align: center;
+    color:#FFFFFF;
+    padding-top: 10px;
+}
+
+.flag-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+
+
+@media screen and (max-width: 767px) {
+    .website-footer-container{
+        width: 375px;
+        height: 699px;
+        gap: 0px;
+        opacity: 0px;
+    }
+    .footer-quote-mobile-1{
+        font-family:sans-serif;
+        font-size: 16px;
+        font-weight: 700;
+        line-height: 24px;
+        text-align: left;
+        color: #FFFFFF;
+        padding-bottom: 5px;
+    }
+
+    .contact-container{
+        display: flex;
+        flex-direction: row;
+    }
+
+    .footer-container-1{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .quote-mobile{
+        display: none;
+    }
+
+    .drop-down{
+        width: 100%;
+        height: 20px;
+        gap: 0px;
+        opacity: 0px;
+        background-color: #000000;
+        color:#FFFFFF;
+        border: none;
+        outline: none;
+        font-size: 16px;
+        font-weight: 700;
+        line-height: 19.2px;
+        text-align: left;
+        margin: 8px 0px 8px 0px;
+        cursor: inherit;
+
+    }
+
+    .email-input-field-mobile{
+        width: Fixed (226px)px;
+        height: Fixed (47px)px;
+        padding: 14px 24px 14px 24px;
+        gap: 8px;
+        opacity: 0px;
+        width: 131px;
+        height: 19px;
+        gap: 0px;
+        opacity: 0px;
+        color:#BFC8CD;;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 19.2px;
+        text-align: left;
+        outline: none;
+    }
+
+    .footer-quotes-field{
+        display: none;
+    }
+
+    .footer-container-2{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .currency-desc{
+        display: none;
+    }
+
+    
+
+    .payment-icon{
+        width: Hug (343px)px;
+        height: Hug (30px)px;
+        top: 260px;
+        left: 16px;
+        gap: 8px;
+        opacity: 0px;
+    }
+
+    .footer-email-input-container{
+        width: 343px;
+        height: 48px;
+        top: 107px;
+        left: 16px;
+        gap: 0px;
+        opacity: 0px;
+        display: flex;
+        flex-direction: row;
+        padding-bottom: 5px;
+    }
+
+    .footer-subscribe-button{
+        width: 103px;
+        height: 44px;
+        left: 234px;
+        gap: 0px;
+        border-radius: 5px;
+        border: 1.14px 0px 0px 0px;
+        opacity: 0.3px;
+        border: 1.14px solid #4c4c4c;
+        gap: 0px;
+        opacity: 0px;
+        font-size: 14px;
+        font-weight: 700;
+        line-height: 19.2px;
+        text-align: left;
+        font-family:sans-serif;
+        cursor: pointer;
+    }
+
+    .website-footer-container{
+        height: 750px;
+        width: 100%;
+    }
+
+    .footer-payment-quote-1{
+       padding-top: 5px;
+    }
+    
+    .customer-quote{
+        padding-left: 8px;
+        font-size: 14px;
+    }
+}
+
+@media screen and (min-width: 768px) {
+
+    
+    .footer-quote-mobile-1{
+        display: none;
+    }
+    .drop-down-container{
+        display: none;
+    }
+
+    .footer-container-2{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        padding:12px 30px 8px 30px;
+    }
+
+    .footer-container-1{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        padding:8px 30px 8px 30px;
+    }
+
+    .hr-line{
+        display: none;
+    }
+    
+}
