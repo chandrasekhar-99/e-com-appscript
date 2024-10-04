@@ -6,4 +6,5 @@ HEADER and PRODUCTS :
 
 Detail view of products:
 
+![image alt](https://github.com/chandrasekhar-99/e-com-appscript/blob/37ea37840130a4d5c166101153a8a16321e7c8a3/Screenshot%202024-10-04%20144620.png)
 
